@@ -1,0 +1,37 @@
+{
+    "name": "@node-elion/builder-rust-plugin",
+    "version": "1.0.0",
+    "description": "Rust (WebAssembly) support for projects, that based on elion-builder",
+    "main": "lib/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "release": "npx standard-version"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/elion-project/builder-rust-plugin.git"
+    },
+    "author": "Yehor Brodskiy",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/elion-project/builder-rust-plugin/issues"
+    },
+    "peerDependencies": {
+        "@node-elion/builder": "1.x"
+    },
+    "homepage": "https://github.com/elion-project/builder-rust-plugin#readme",
+    "dependencies": {
+        "rust-wasmpack-loader": "^2.1.0"
+    },
+    "devDependencies": {
+        "@typescript-eslint/eslint-plugin": "^5.36.2",
+        "@typescript-eslint/parser": "^5.36.2",
+        "eslint": "^8.21.0",
+        "eslint-config-airbnb-base": "^15.0.0",
+        "eslint-config-airbnb-typescript": "^17.0.0",
+        "eslint-config-prettier": "^8.5.0",
+        "eslint-plugin-import": "^2.26.0",
+        "eslint-plugin-jest": "^27.0.4",
+        "eslint-plugin-prettier": "^4.2.1"
+    }
+}
