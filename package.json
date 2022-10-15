@@ -21,6 +21,7 @@
     },
     "homepage": "https://github.com/elion-project/builder-rust-plugin#readme",
     "dependencies": {
+        "chalk": "^5.1.2",
         "rust-wasmpack-loader": "^2.1.0"
     },
     "devDependencies": {
