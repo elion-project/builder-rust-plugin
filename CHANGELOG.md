@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/elion-project/builder-rust-plugin/compare/v1.1.0...v1.2.0) (2022-10-15)
+
+
+### Features
+
+* Add warning message ([aa3d516](https://github.com/elion-project/builder-rust-plugin/commit/aa3d51691398797e17f5a88ecb602e695524a1a7))
+
 ## [1.1.0](https://github.com/elion-project/builder-rust-plugin/compare/v1.0.0...v1.1.0) (2022-10-15)
 
 
