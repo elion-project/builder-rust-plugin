@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/elion-project/builder-rust-plugin/compare/v1.2.0...v1.3.0) (2022-11-30)
+
+
+### Features
+
+* update `rust-wasmpack-loader` dependency; move `peerDependencies."@node-elion/builder"` to `2.x` ([5425ca7](https://github.com/elion-project/builder-rust-plugin/commit/5425ca7e76a96da4388e5e2b0c83167487d3e90e))
+
 ## [1.2.0](https://github.com/elion-project/builder-rust-plugin/compare/v1.1.0...v1.2.0) (2022-10-15)
 
 
