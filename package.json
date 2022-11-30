@@ -17,12 +17,12 @@
         "url": "https://github.com/elion-project/builder-rust-plugin/issues"
     },
     "peerDependencies": {
-        "@node-elion/builder": "1.x"
+        "@node-elion/builder": "2.x"
     },
     "homepage": "https://github.com/elion-project/builder-rust-plugin#readme",
     "dependencies": {
         "chalk": "^5.1.2",
-        "rust-wasmpack-loader": "^2.1.0"
+        "rust-wasmpack-loader": "^2.1.1"
     },
     "devDependencies": {
         "@typescript-eslint/eslint-plugin": "^5.36.2",
