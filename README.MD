@@ -50,7 +50,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for ways to get started.
 
 ## Acknowledgements
 
-- [rust-wasmpack-loader](https://github.com/webpack/webpack)
+- [rust-wasmpack-loader](https://github.com/yeskiy/rustwasm-loader)
 
 ## License
 
