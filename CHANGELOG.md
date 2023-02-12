@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/elion-project/builder-rust-plugin/compare/v1.4.0...v2.0.0) (2023-02-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* Updated Dependencies. Project become public. Added README.MD and CONTRIBUTING.md
+
+### Features
+
+* Updated Dependencies. Project become public. Added README.MD and CONTRIBUTING.md ([1e2a211](https://github.com/elion-project/builder-rust-plugin/commit/1e2a211729cec8f028e84c9de4ec528ab97c21a0))
+
 ## [1.4.0](https://github.com/elion-project/builder-rust-plugin/compare/v1.3.0...v1.4.0) (2023-01-13)
 
 

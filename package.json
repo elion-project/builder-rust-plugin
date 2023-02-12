@@ -1,6 +1,6 @@
 {
     "name": "@node-elion/builder-rust-plugin",
-    "version": "1.4.0",
+    "version": "2.0.0",
     "description": "Rust (WebAssembly) support for projects, that based on @node-elion/builder",
     "main": "lib/index.js",
     "scripts": {
