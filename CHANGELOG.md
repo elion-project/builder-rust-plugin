@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/elion-project/builder-rust-plugin/compare/v2.0.1...v2.1.0) (2023-03-26)
+
+
+### Features
+
+* Upgrade `rust-wasmpack-loader` to `2.3.0`. Upgrade other dependencies. Removed experimental warning. ([12e3a9e](https://github.com/elion-project/builder-rust-plugin/commit/12e3a9ed1a2fa4612ef1ee16c3fa4c985db49f48))
+
 ### [2.0.1](https://github.com/elion-project/builder-rust-plugin/compare/v2.0.0...v2.0.1) (2023-02-12)
 
 
