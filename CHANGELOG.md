@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.0.1](https://github.com/elion-project/builder-rust-plugin/compare/v3.0.0...v3.0.1) (2023-11-20)
+
+
+### Bug Fixes
+
+* Add `snyk.io` and `sonarcloud.io` checks ([b9fa399](https://github.com/elion-project/builder-rust-plugin/commit/b9fa399f5208f9cf60754360803f9d3108b268ec))
+
 ## [3.0.0](https://github.com/elion-project/builder-rust-plugin/compare/v2.1.2...v3.0.0) (2023-11-20)
 
 
