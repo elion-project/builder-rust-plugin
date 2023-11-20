@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/elion-project/builder-rust-plugin/compare/v2.1.2...v3.0.0) (2023-11-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* Drop `Node.js v16` support. Upgrade dependencies. Upgrade `LICENSE` year.
+
+### Features
+
+* Drop `Node.js v16` support. Upgrade dependencies. Upgrade `LICENSE` year. ([fe34599](https://github.com/elion-project/builder-rust-plugin/commit/fe34599b5941a31729fc79753caf1c25805a593a))
+
 ### [2.1.2](https://github.com/elion-project/builder-rust-plugin/compare/v2.1.1...v2.1.2) (2023-05-27)
 
 
