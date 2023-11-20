@@ -1,6 +1,8 @@
 [![MIT License](https://img.shields.io/npm/l/@node-elion/builder-rust-plugin.svg?)](https://www.npmjs.com/package/@node-elion/builder-rust-plugin)
 [![View this project on NPM](https://img.shields.io/npm/v/@node-elion/builder-rust-plugin.svg)](https://npmjs.org/package/@node-elion/builder-rust-plugin)
 [![View this project on NPM](https://img.shields.io/npm/dm/@node-elion/builder-rust-plugin.svg)](https://npmjs.org/package/@node-elion/builder-rust-plugin)
+[![Known Vulnerabilities](https://snyk.io/test/github/elion-project/builder-rust-plugin/badge.svg)](https://snyk.io/test/github/elion-project/builder-rust-plugin)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=elion-project_builder-rust-plugin&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=elion-project_builder-rust-plugin)
 
 # @node-elion/builder-rust-plugin
 
