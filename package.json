@@ -24,7 +24,7 @@
     "homepage": "https://github.com/elion-project/builder-rust-plugin#readme",
     "dependencies": {
         "chalk": "^5.3.0",
-        "rust-wasmpack-loader": "^3.0.2"
+        "rust-wasmpack-loader": "^3.1.1"
     },
     "devDependencies": {
         "@typescript-eslint/eslint-plugin": "^6.20.0",
