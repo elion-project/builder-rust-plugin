@@ -1,13 +1,10 @@
 {
     "name": "@node-elion/builder-rust-plugin",
-    "version": "3.0.2",
+    "version": "3.0.3",
     "description": "Rust (WebAssembly) support for projects, that based on @node-elion/builder",
     "main": "lib/index.js",
     "scripts": {
-        "release": "npx standard-version",
-        "release:jdi": "npm run release && npm run release:doPush",
-        "release:doPush": "git push --follow-tags origin main && npm run release:publish",
-        "release:publish": "npm publish"
+        "release": "npx commit-and-tag-version"
     },
     "repository": {
         "type": "git",
